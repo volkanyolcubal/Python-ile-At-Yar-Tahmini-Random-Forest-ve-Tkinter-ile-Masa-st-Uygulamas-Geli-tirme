@@ -1,3 +1,4 @@
+Eğitimdir garanti kapsamaz canlı hayvanlar ne yapacağı belli olmaz bu yüzden tutma garantisi asla yoktur
 Python ile at yarışı tahmini yapan bir makine öğrenmesi modelinin nasıl oluşturulduğunu gösteriyor! Sadece komut satırı çıktılarıyla sınırlı kalmayıp, programı Tkinter kullanarak şık ve interaktif bir arayüze sahip bir masaüstü uygulamasına dönüştürdüm.
 
  göreceğiniz gibi, modelimiz geçmiş yarış verilerini kullanarak kazanan atları tahmin ediyor. Ayrıca, tahminleri "Favoriler" ve "Sürprizler" olarak filtreleyebiliyoruz. En önemlisi, modelin tahmin ettiği atların AGF, Ganyan, Jokey ve Kilo gibi kritik bilgilerini de anında görebiliyoruz.
